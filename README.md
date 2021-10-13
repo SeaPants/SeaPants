@@ -1,6 +1,6 @@
 ### Profile
 
-In detail: koike.app/en/
+In detail: [My Website](https://www.koike.app/en/)
 
 <!--
 **SeaPants/SeaPants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
